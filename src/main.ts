@@ -7,7 +7,5 @@ app.innerHTML = `
   <span>Revisar la consola de JavaScript</span>
 
 
-  ESTO ES UNA PRUEBA
+  ESTO ES UNA PRUEBA - PARA FUSIONAR RAMAS
 `
-
-//Aqui se esta realizando la segunda prueba
